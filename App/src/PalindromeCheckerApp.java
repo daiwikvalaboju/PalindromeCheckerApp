@@ -14,6 +14,5 @@ public class PalindromeCheckerApp {
                 } else {
                     System.out.println(input + " is not a palindrome.");
                 }
-                System.out.println("Program finished.");
             }
         }
